@@ -8,7 +8,7 @@ namespace msf\base;
  *
  * @package msf\base
  */
-class Behavior
+class Behavior extends Object
 {
     /**
      * @var Component the owner of this behavior
