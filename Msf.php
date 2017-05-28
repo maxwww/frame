@@ -1,5 +1,7 @@
 <?php
 
+require(__DIR__ . '/BaseMsf.php');
+
 /**
  * Class Msf
  *
