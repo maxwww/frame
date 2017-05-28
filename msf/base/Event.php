@@ -14,7 +14,7 @@ class Event extends Object
 
     public $data;
 
-    private static $_events = [];
+    public static $_events = [];
 
     public static function on($class, $name, $handler, $data = null, $append = true)
     {
