@@ -1,0 +1,15 @@
+{
+    "name": "msf/framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maksym",
+            "email": "ms.mikro.1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"msf\\": ""}
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
